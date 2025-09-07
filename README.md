@@ -1,5 +1,5 @@
 Dependancies to be installed in venv:
--djangorestframework
+-django
 -djangorestframework
 -djangorestframework-simplejwt
 -psycopg2-binary
